@@ -16,21 +16,5 @@ Taille:1 bytes
 # Q5 : Empreinte mémroire en mode natif ?
 Réponse:
 
-# Q6: Temps et  taille  réponse   liste les questions
-Temps:
-Taille:
-
-# Q7: Temps et  taille  réponse  liste des propositions
-Temps:
-Taille:
-
-# Q8: Temps et  taille  réponse  évaluation les réponses
-Temps:
-Taille:
-
-
-# Q9 :  Que constatez-vous en comparant les métriques de la solution  initiales vs la votre vs celle-ci ?
-Réponse:
-
-# Q10 : Quelle dernière amélioration pourriez-vous proposer?
-Réponse:
+# Q6 à Q10: Temps et  taille  réponse   liste les questions
+J'ai pas pu lancer en mode natif.
